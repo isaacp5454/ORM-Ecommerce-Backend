@@ -28,4 +28,8 @@ I learned how to map a bunch of objects throug express and sequalize. I also lea
   
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  ## How to Contribute
+  ## How to Contribute 
+  contact me at github isaacp5454.
+  
+  ## Walkthrough Video
+  https://drive.google.com/file/d/1XOKlyXxLKf89ydmlYswOeNuxcpZPOip6/view
